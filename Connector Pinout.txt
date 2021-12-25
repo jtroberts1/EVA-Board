@@ -1,0 +1,22 @@
+X1
+    P1  X-Signal
+    P2  X-Ground
+    P3  X-VCC
+    P4  X-Signal
+    P5  X-Ground
+    P6  X-VCC
+    P7  LED-VCC
+    P8  LED-Ground
+X2
+    P1  HE Fan VCC
+    P2  HE Fan Ground 
+    P3  Part Fan VCC
+    P4  Part Fan Ground
+    P5  Temp P1
+    P6  Temp P2
+    P7  Motor 1
+    P8  Motor 2
+    P9  Motor 3
+    P10 Motor 4
+
+
